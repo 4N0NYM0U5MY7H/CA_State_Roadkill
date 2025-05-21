@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: "CA State Roadkill Obervation Data"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: August
+    family-names: Frisk
+    orcid: 'https://orcid.org/0009-0007-9200-8438'
+    email: afrisk1@csustan.edu
+    affiliation: California State University Stanislaus
+repository-code: 'https://github.com/4N0NYM0U5MY7H/CA_State_Roadkill'
+abstract: >-
+  This dataset contains data sourced from iNaturalist on
+  roadkill observations in California up to April 2025.
+license: CC-BY-SA-4.0
+version: 1.0.1
+date-released: '2025-05-21'
