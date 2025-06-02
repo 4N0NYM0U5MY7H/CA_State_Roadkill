@@ -23,3 +23,9 @@ This dataset contains data sourced from iNaturalist on roadkill observations in 
 * `common_name`: Common or vernacular name of the observed taxon according to iNaturalist
 
 For more information about column headers, see https://www.inaturalist.org/terminology
+
+## Contributors
+* **August Frisk** - Data Curration, Analysis, and Documentation
+* iNaturalist Contributors - Data Collection, Identification, and Validation
+  * [Observers](https://www.inaturalist.org/observations?projects%5B%5D=california-state-roadkill&view=observers)
+  * [Identifiers](https://www.inaturalist.org/observations?projects%5B%5D=california-state-roadkill&view=identifiers)

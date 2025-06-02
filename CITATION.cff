@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: "CA State Roadkill Obervation Data"
+title: CA State Roadkill Obervation Data
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
@@ -13,6 +13,8 @@ authors:
     orcid: 'https://orcid.org/0009-0007-9200-8438'
     email: afrisk1@csustan.edu
     affiliation: California State University Stanislaus
+  - name: iNaturalist Contributors
+    location: California
 repository-code: 'https://github.com/4N0NYM0U5MY7H/CA_State_Roadkill'
 abstract: >-
   This dataset contains data sourced from iNaturalist on
